@@ -2,17 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ef8bd12-ab0e-45f4-9e5a-e1aa1bb1861b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/0.0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0.1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0.算法效率衡量.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0.算法效率衡量.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.Python内置类型性能分析.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.Python内置类型性能分析.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.顺序表.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5.排序算法.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,7 +16,9 @@
         <entry file="file://$PROJECT_DIR$/0.0.算法效率衡量.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor />
+              <first_editor relative-caret-position="330">
+                <caret line="22" lean-forward="true" selection-end-line="22" />
+              </first_editor>
               <second_editor />
             </state>
           </provider>
@@ -37,8 +28,8 @@
         <entry file="file://$PROJECT_DIR$/1.0.Python内置类型性能分析.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="73">
-                <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+              <first_editor relative-caret-position="463">
+                <caret line="50" column="6" lean-forward="true" selection-end-line="51" />
               </first_editor>
               <second_editor />
             </state>
@@ -49,8 +40,8 @@
         <entry file="file://$PROJECT_DIR$/2.0.顺序表.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="388">
-                <caret line="48" column="13" selection-start-line="48" selection-start-column="13" selection-end-line="48" selection-end-column="13" />
+              <first_editor relative-caret-position="162">
+                <caret line="32" lean-forward="true" selection-end-line="54" />
               </first_editor>
               <second_editor />
             </state>
@@ -61,8 +52,20 @@
         <entry file="file://$PROJECT_DIR$/5.0.排序算法.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="315">
-                <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+              <first_editor relative-caret-position="345">
+                <caret line="23" lean-forward="true" selection-end-line="23" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/7.0.树.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="388">
+                <caret line="79" column="21" lean-forward="true" selection-end-line="85" selection-end-column="47" />
               </first_editor>
               <second_editor />
             </state>
@@ -70,11 +73,28 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/7.0.树.md">
+        <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="388">
-                <caret line="79" column="13" selection-start-line="79" selection-start-column="13" selection-end-line="79" selection-end-column="13" />
+              <first_editor relative-caret-position="357">
+                <caret line="262" column="21" selection-start-line="262" selection-start-column="21" selection-end-line="262" selection-end-column="21" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/5.5希尔排序.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/5.5希尔排序.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="420">
+                <caret line="28" column="8" lean-forward="true" selection-end-line="48" />
               </first_editor>
               <second_editor />
             </state>
@@ -93,6 +113,7 @@
         <option value="$PROJECT_DIR$/2.0.顺序表.md" />
         <option value="$PROJECT_DIR$/5.0.排序算法.md" />
         <option value="$PROJECT_DIR$/7.0.树.md" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -152,7 +173,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1301" height="772" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
@@ -177,7 +197,9 @@
     <entry file="file://$PROJECT_DIR$/0.0.算法效率衡量.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor />
+          <first_editor relative-caret-position="330">
+            <caret line="22" lean-forward="true" selection-end-line="22" />
+          </first_editor>
           <second_editor />
         </state>
       </provider>
@@ -185,8 +207,8 @@
     <entry file="file://$PROJECT_DIR$/1.0.Python内置类型性能分析.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="73">
-            <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+          <first_editor relative-caret-position="463">
+            <caret line="50" column="6" lean-forward="true" selection-end-line="51" />
           </first_editor>
           <second_editor />
         </state>
@@ -195,8 +217,8 @@
     <entry file="file://$PROJECT_DIR$/2.0.顺序表.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="388">
-            <caret line="48" column="13" selection-start-line="48" selection-start-column="13" selection-end-line="48" selection-end-column="13" />
+          <first_editor relative-caret-position="162">
+            <caret line="32" lean-forward="true" selection-end-line="54" />
           </first_editor>
           <second_editor />
         </state>
@@ -205,8 +227,21 @@
     <entry file="file://$PROJECT_DIR$/5.0.排序算法.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="315">
-            <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+          <first_editor relative-caret-position="345">
+            <caret line="23" lean-forward="true" selection-end-line="23" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5.5希尔排序.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5.5希尔排序.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="420">
+            <caret line="28" column="8" lean-forward="true" selection-end-line="48" />
           </first_editor>
           <second_editor />
         </state>
@@ -216,7 +251,17 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="388">
-            <caret line="79" column="13" selection-start-line="79" selection-start-column="13" selection-end-line="79" selection-end-column="13" />
+            <caret line="79" column="21" lean-forward="true" selection-end-line="85" selection-end-column="47" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="357">
+            <caret line="262" column="21" selection-start-line="262" selection-start-column="21" selection-end-line="262" selection-end-column="21" />
           </first_editor>
           <second_editor />
         </state>
