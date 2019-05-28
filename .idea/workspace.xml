@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4ef8bd12-ab0e-45f4-9e5a-e1aa1bb1861b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="4ef8bd12-ab0e-45f4-9e5a-e1aa1bb1861b" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,13 +9,13 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/0.0.算法效率衡量.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="330">
-                <caret line="22" lean-forward="true" selection-end-line="22" />
+                <caret line="22" selection-end-line="22" />
               </first_editor>
               <second_editor />
             </state>
@@ -28,8 +26,8 @@
         <entry file="file://$PROJECT_DIR$/1.0.Python内置类型性能分析.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="463">
-                <caret line="50" column="6" lean-forward="true" selection-end-line="51" />
+              <first_editor relative-caret-position="750">
+                <caret line="50" column="6" selection-end-line="51" />
               </first_editor>
               <second_editor />
             </state>
@@ -40,8 +38,8 @@
         <entry file="file://$PROJECT_DIR$/2.0.顺序表.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="162">
-                <caret line="32" lean-forward="true" selection-end-line="54" />
+              <first_editor relative-caret-position="480">
+                <caret line="32" selection-end-line="54" />
               </first_editor>
               <second_editor />
             </state>
@@ -53,7 +51,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="345">
-                <caret line="23" lean-forward="true" selection-end-line="23" />
+                <caret line="23" selection-end-line="23" />
               </first_editor>
               <second_editor />
             </state>
@@ -64,8 +62,8 @@
         <entry file="file://$PROJECT_DIR$/7.0.树.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="388">
-                <caret line="79" column="21" lean-forward="true" selection-end-line="85" selection-end-column="47" />
+              <first_editor relative-caret-position="1185">
+                <caret line="79" column="21" selection-end-line="85" selection-end-column="47" />
               </first_editor>
               <second_editor />
             </state>
@@ -143,7 +141,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../leetcode" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -172,15 +170,11 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="-4" width="1301" height="772" extended-state="6" />
+    <frame x="64" y="-11" width="1303" height="780" extended-state="6" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -188,6 +182,10 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -198,7 +196,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="330">
-            <caret line="22" lean-forward="true" selection-end-line="22" />
+            <caret line="22" selection-end-line="22" />
           </first_editor>
           <second_editor />
         </state>
@@ -207,8 +205,8 @@
     <entry file="file://$PROJECT_DIR$/1.0.Python内置类型性能分析.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="463">
-            <caret line="50" column="6" lean-forward="true" selection-end-line="51" />
+          <first_editor relative-caret-position="750">
+            <caret line="50" column="6" selection-end-line="51" />
           </first_editor>
           <second_editor />
         </state>
@@ -217,8 +215,8 @@
     <entry file="file://$PROJECT_DIR$/2.0.顺序表.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="162">
-            <caret line="32" lean-forward="true" selection-end-line="54" />
+          <first_editor relative-caret-position="480">
+            <caret line="32" selection-end-line="54" />
           </first_editor>
           <second_editor />
         </state>
@@ -228,7 +226,17 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="345">
-            <caret line="23" lean-forward="true" selection-end-line="23" />
+            <caret line="23" selection-end-line="23" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7.0.树.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1185">
+            <caret line="79" column="21" selection-end-line="85" selection-end-column="47" />
           </first_editor>
           <second_editor />
         </state>
@@ -242,16 +250,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="420">
             <caret line="28" column="8" lean-forward="true" selection-end-line="48" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/7.0.树.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="388">
-            <caret line="79" column="21" lean-forward="true" selection-end-line="85" selection-end-column="47" />
           </first_editor>
           <second_editor />
         </state>
