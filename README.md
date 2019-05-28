@@ -7,7 +7,8 @@
  
 # [0.0.算法效率衡量](https://github.com/JackKuo666/Data_Structure_with_Python/blob/master/0.0.%E7%AE%97%E6%B3%95%E6%95%88%E7%8E%87%E8%A1%A1%E9%87%8F.md)
 [代码](https://github.com/JackKuo666/Data_Structure_with_Python/blob/master/0.1.%E7%AE%97%E6%B3%95%E6%95%88%E7%8E%87%E8%A1%A1%E9%87%8F.py)
-##　对于算法的时间效率，我们可以用“大O记法”来表示。
+
+## 对于算法的时间效率，我们可以用“大O记法”来表示。
 
 “大O记法”：对于单调的整数函数f，如果存在一个整数函数g和实常数c>0，使得对于充分大的n总有f(n)<=c*g(n)，就说函数g是f的一个渐近函数（忽略常数），记为f(n)=O(g(n))。也就是说，在趋向无穷的极限意义下，函数f的增长速度受到函数g的约束，亦即函数f与函数g的特征相似。
 
